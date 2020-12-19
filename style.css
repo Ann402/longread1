@@ -1,0 +1,31 @@
+body {
+    background-color: darkseagreen;
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #45343A;
+    font-size: 24px;
+
+    line-height: 1.2;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: justify;
+}
+p.title {
+    font-size: 28px;
+    font-weight: 600;
+    text-align: center;
+    color: #45343A;
+}
+p.label {
+    padding-left: 80px;
+    padding-right: 80px;
+    text-indent: 50px;
+    text-align: right;
+    color: navy;
+}
